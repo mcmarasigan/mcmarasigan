@@ -18,8 +18,9 @@ I am a software engineer dedicated to creating efficient, data-driven solutions.
 * **Frontend:** HTML/CSS, JavaScript, Tailwind CSS, ReactJS
 
 **Data & Tools**
-* **Databases:** MySQL, Firebase
-* **Tools:** Git, GitHub, REST APIs, Vite, VS Code
+* **BaaS & Tools:** Supabase, Firebase, Lovable
+* **Databases:** MySQL
+* **Dev Tools:** Git, GitHub, REST APIs, Vite, VS Code, Cursor, Antigravity
 
 ---
 
