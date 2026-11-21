@@ -80,14 +80,6 @@ A bakery management system developed using Java and MySQL to help manage orders,
 
 ---
 
-### 📊 GitHub Activity
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mcmarasigan&theme=github-compact&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcmarasigan&layout=compact&theme=transparent&hide_border=true)
-
----
-
 ### 📫 Let's Connect!
 
 - 🌐 **Portfolio:** [mcmarasigan.github.io](https://mcmarasigan.github.io/)
